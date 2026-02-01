@@ -38,41 +38,37 @@ Read the complete "Building with Cursor" guide. Focus on:
 
 ### Step 3: Answer the Questions
 
-Answer the following questions in `answers.md`:
+Answer the following questions:
 
-#### Question 1: Multi-file Reasoning
+Question 1: Multi-file Reasoning
 
-**What is Cursor's multi-file reasoning and why is it useful?**
+What is Cursor's multi-file reasoning and why is it useful?
 
-Provide a clear explanation of what multi-file reasoning means in the context of Cursor AI, and explain why this capability is valuable when building software.
+A: Cursor’s multi-file reasoning is its ability to understand, analyze, and reason about relationships across many files in a codebase at the same time, instead of treating each file as an isolated island.
+Think of a normal code editor AI as reading one page of a book. Cursor’s multi-file reasoning reads entire chapters and remembers how characters, plots, and callbacks connect.
 
-#### Question 2: Good Task Prompts
+Question 2: Good Task Prompts
 
-**How would you phrase a "good task prompt" in Cursor? Give 1–2 examples.**
+How would you phrase a "good task prompt" in Cursor? Give 1–2 examples.
 
-Provide 1-2 examples of well-phrased prompts you would use with Cursor AI. Explain what makes these prompts effective.
+A good task prompt in Cursor is: "Specific about the goal, clear about the scope, and grounded in the existing codebase, while avoiding micromanaging implementation details.
+Think of it as writing a mission briefing, not a keystroke script."
 
-#### Question 3: Debugging Workflow
+Example 1 Prompt: "Add role-based access control so that only users with role "admin" can access routes under /admin. Use the existing auth middleware and update types, database schema, and any affected tests."
 
-**What is your workflow when debugging an error with Cursor?**
+Example 2 Prompt: "Refactor the user settings feature to use a dedicated UserSettingsService instead of calling the repository directly. Keep current behavior the same and update imports, types, and tests as needed."
 
-Describe your step-by-step process for debugging errors when using Cursor AI. Include how you would use Cursor to help identify and fix issues.
+Question 3: Debugging Workflow
 
-#### Question 4: Personal Benefits
+What is your workflow when debugging an error with Cursor?
 
-**What is the biggest benefit of AI-assisted coding for you personally?**
+My debugging workflow with Cursor is: reproduce → give full error context → ask for root cause → request minimal fix → verify → add protection.
 
-Reflect on how AI-assisted coding (using tools like Cursor) benefits your learning and development process. Be specific about what you find most valuable.
+Question 4: Personal Benefits
 
-### Step 4: Commit and Push
+What is the biggest benefit of AI-assisted coding for you personally?
 
-1. Save your `answers.md` file
-2. Commit your changes:
-   ```bash
-   git add answers.md
-   git commit -m "Complete Assignment 1: Cursor Fundamentals Reflection"
-   git push
-   ```
+The biggest benefit is that AI-assisted coding collapses the gap between wanting to understand something and actually understanding it, which accelerates my learning more than any tutorial or course ever has.
 
 ---
 
