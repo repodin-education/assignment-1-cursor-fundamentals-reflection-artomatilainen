@@ -2,8 +2,7 @@ Question 1: Multi-file Reasoning
 
 What is Cursor's multi-file reasoning and why is it useful?
 
-A: Cursor’s multi-file reasoning is its ability to understand, analyze, and reason about relationships across many files in a codebase at the same time, instead of treating each file as an isolated island.
-Think of a normal code editor AI as reading one page of a book. Cursor’s multi-file reasoning reads entire chapters and remembers how characters, plots, and callbacks connect.
+A: Cursor’s multi-file reasoning is its ability to understand, analyze, and reason about relationships across many files in a codebase at the same time, instead of treating each file as an isolated island. Think of a normal code editor AI as reading one page of a book. Cursor’s multi-file reasoning reads entire chapters and remembers how characters, plots, and callbacks connect.
 
 Question 2: Good Task Prompts
 
@@ -27,3 +26,5 @@ Question 4: Personal Benefits
 What is the biggest benefit of AI-assisted coding for you personally?
 
 The biggest benefit is that AI-assisted coding collapses the gap between wanting to understand something and actually understanding it, which accelerates my learning more than any tutorial or course ever has. Coding is fun and very satisfying, not old fashion coding line by line but prompting!
+
+Date: Mar 7 2026
