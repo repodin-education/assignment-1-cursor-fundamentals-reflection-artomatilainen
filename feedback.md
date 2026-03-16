@@ -1,53 +1,53 @@
 
 # AI Feedback: Assignment 1: Cursor Fundamentals Reflection
 
-**Overall Score:** 85/100 (Very Good)
+**Overall Score:** 82/100 (Very Good)
 
 ---
 
 ## Summary
 
-Arto's reflection demonstrates a solid understanding of Cursor AI fundamentals, with clear articulation of multi-file reasoning, effective prompting, and debugging workflows. The answers are well-structured and include specific examples, showing good comprehension of the guide. However, the reflection could benefit from deeper personal insights and more critical analysis of AI's impact on coding processes. The submission meets all basic requirements but lacks some depth in personal reflection and unique observations.
+Arto's submission demonstrates a solid understanding of Cursor AI fundamentals with clear, well-structured answers that meet all basic requirements. The reflection shows good comprehension of multi-file reasoning, effective prompting techniques, and debugging workflows, supported by specific examples. However, the personal reflection lacks depth and critical analysis of how AI assistance specifically impacted their coding process, and the examples provided are somewhat generic rather than drawn from personal experience. The submission is complete and well-written, but could benefit from more nuanced insights and concrete connections to actual coding scenarios.
 
 ---
 
 ## Strengths
 
-- Clear and concise explanations of key Cursor concepts, such as multi-file reasoning and effective prompting.
-- Well-structured answers with specific examples where requested, demonstrating good comprehension of the guide.
-- Adherence to submission requirements, including a properly named answers.md file with all questions answered.
-- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed.
+- Clear and concise explanations of key Cursor concepts, showing good comprehension of the guide
+- Well-structured answers with specific examples where requested, adhering to submission requirements
+- Complete submission with all 4 questions answered in a properly named answers.md file
+- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed
 
 ---
 
 ## Improvement Areas
 
-- Examples provided are generic and lack personal coding context, reducing their illustrative power. — In future reflections, incorporate real examples from your own projects to make insights more concrete and relatable.
-- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed. — Reflect on specific instances where AI assistance altered your problem-solving approach or introduced new efficiencies or hurdles.
-- Personal reflection is somewhat superficial, missing deeper insights into learning curves or emotional aspects of AI-assisted coding. — Explore how AI tools have influenced your confidence, creativity, or collaboration in coding, and share any 'aha' moments.
-- Examples provided are generic and lack personal coding context, reducing their illustrative power.
-- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed.
-- Personal reflection is somewhat superficial, missing deeper insights into learning curves or emotional aspects of AI-assisted coding.
+- Examples are generic and lack personal coding context, reducing their illustrative power — Incorporate real examples from your own projects or experiments with Cursor to make insights more concrete and relatable. For instance, describe a specific prompt you used and how Cursor responded.
+- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed — Reflect on specific instances where AI assistance altered your problem-solving approach, introduced new efficiencies, or created hurdles. Discuss how your debugging or iteration loops changed with Cursor.
+- Personal reflection is somewhat superficial, missing deeper insights into learning curves or emotional aspects of AI-assisted coding — Explore how AI tools have influenced your confidence, creativity, or collaboration in coding. Share any 'aha' moments or frustrations to add nuance to your reflection.
+- Examples are generic and lack personal coding context, reducing their illustrative power
+- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed
+- Personal reflection is somewhat superficial, missing deeper insights into learning curves or emotional aspects of AI-assisted coding
 
 ---
 
 ## Immediate Next Steps
 
-- Examples provided are generic and lack personal coding context, reducing their illustrative power.: In future reflections, incorporate real examples from your own projects to make insights more concrete and relatable.
-- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed.: Reflect on specific instances where AI assistance altered your problem-solving approach or introduced new efficiencies or hurdles.
-- Personal reflection is somewhat superficial, missing deeper insights into learning curves or emotional aspects of AI-assisted coding.: Explore how AI tools have influenced your confidence, creativity, or collaboration in coding, and share any 'aha' moments.
+- Examples are generic and lack personal coding context, reducing their illustrative power: Incorporate real examples from your own projects or experiments with Cursor to make insights more concrete and relatable. For instance, describe a specific prompt you used and how Cursor responded.
+- Critical analysis of AI's impact on coding is limited; more depth on workflow changes and challenges is needed: Reflect on specific instances where AI assistance altered your problem-solving approach, introduced new efficiencies, or created hurdles. Discuss how your debugging or iteration loops changed with Cursor.
+- Personal reflection is somewhat superficial, missing deeper insights into learning curves or emotional aspects of AI-assisted coding: Explore how AI tools have influenced your confidence, creativity, or collaboration in coding. Share any 'aha' moments or frustrations to add nuance to your reflection.
 
 ---
 
 ## Longer-Term Focus
 
-- In future reflections, incorporate real examples from your own projects to make insights more concrete and relatable.
-- Reflect on specific instances where AI assistance altered your problem-solving approach or introduced new efficiencies or hurdles.
-- Explore how AI tools have influenced your confidence, creativity, or collaboration in coding, and share any 'aha' moments.
+- Incorporate real examples from your own projects or experiments with Cursor to make insights more concrete and relatable. For instance, describe a specific prompt you used and how Cursor responded.
+- Reflect on specific instances where AI assistance altered your problem-solving approach, introduced new efficiencies, or created hurdles. Discuss how your debugging or iteration loops changed with Cursor.
+- Explore how AI tools have influenced your confidence, creativity, or collaboration in coding. Share any 'aha' moments or frustrations to add nuance to your reflection.
 
 ---
 
 *Generated by RepodIn AI*
 **Student:** Arto Matilainen · **Repository:** `assignment-1-cursor-fundamentals-reflection-artomatilainen`
 **Course:** Vibe Coding 2026 · **Assignment:** Assignment 1: Cursor Fundamentals Reflection
-**Model:** RepodIn AI · **Generated:** Mar 16, 2026, 9:54 AM
+**Model:** RepodIn AI · **Generated:** Mar 16, 2026, 1:41 PM
