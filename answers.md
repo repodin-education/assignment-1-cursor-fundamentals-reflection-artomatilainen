@@ -27,4 +27,4 @@ What is the biggest benefit of AI-assisted coding for you personally?
 
 The biggest benefit is that AI-assisted coding collapses the gap between wanting to understand something and actually understanding it, which accelerates my learning more than any tutorial or course ever has. Coding is fun and very satisfying, not old fashion coding line by line but prompting!
 
-Date: Mar 16 2026
+Date: Mar 16 2026 11:55am
